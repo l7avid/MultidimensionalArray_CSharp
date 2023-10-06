@@ -1,0 +1,15 @@
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\bin\Debug\net6.0\MultidimensionalArray.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\bin\Debug\net6.0\MultidimensionalArray.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\bin\Debug\net6.0\MultidimensionalArray.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\bin\Debug\net6.0\MultidimensionalArray.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\bin\Debug\net6.0\MultidimensionalArray.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\obj\Debug\net6.0\MultidimensionalArray.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\obj\Debug\net6.0\MultidimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\obj\Debug\net6.0\MultidimensionalArray.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\obj\Debug\net6.0\MultidimensionalArray.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\obj\Debug\net6.0\MultidimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\obj\Debug\net6.0\MultidimensionalArray.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\obj\Debug\net6.0\refint\MultidimensionalArray.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\obj\Debug\net6.0\MultidimensionalArray.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\obj\Debug\net6.0\MultidimensionalArray.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\11 - Multidimensional Array\MultidimensionalArray\MultidimensionalArray\obj\Debug\net6.0\ref\MultidimensionalArray.dll
